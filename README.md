@@ -1,6 +1,6 @@
 # Taller 1: UPB API REST
 
-Taller para materia Desarrollo de Aplicaciones WEB - UPB MisionTIC.
+Taller para materia Desarrollo de Aplicaciones WEB - UPB MisionTIC, realizado por Juan Andrés Pérez.
 
 ### Utilizar código
 
